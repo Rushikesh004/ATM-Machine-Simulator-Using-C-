@@ -1,0 +1,8 @@
+C:\Users\Rushikesh\source\repos\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+C:\Users\Rushikesh\source\repos\ATM Simulator\bin\Debug\ATM Simulator.exe
+C:\Users\Rushikesh\source\repos\ATM Simulator\bin\Debug\ATM Simulator.pdb
+C:\Users\Rushikesh\source\repos\ATM Simulator\obj\Debug\ATM Simulator.csproj.AssemblyReference.cache
+C:\Users\Rushikesh\source\repos\ATM Simulator\obj\Debug\ATM Simulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rushikesh\source\repos\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Rushikesh\source\repos\ATM Simulator\obj\Debug\ATM Simulator.exe
+C:\Users\Rushikesh\source\repos\ATM Simulator\obj\Debug\ATM Simulator.pdb
